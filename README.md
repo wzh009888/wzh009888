@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**wzh009888/wzh009888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm Wang, Ziheng, Ph.D in XJTU.
+- High-performance Communication
+- High-performance Cryptography
+- Workflow Scheduling of LLMs
+
+
+
+### Hi👋
+
+---
+大家好，我是王子衡，目前西交博士在读，研究方向：
+- 高性能通信
+- 高性能密码学
+- 大语言模型的工作流调度
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
